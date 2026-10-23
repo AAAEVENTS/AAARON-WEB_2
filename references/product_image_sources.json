@@ -1,0 +1,22 @@
+{
+  "reference_document": "Geobit_Catalogue_Original.pdf",
+  "extracted_images": {
+    "betoprime": 210,
+    "betoflex-membrane": 223,
+    "betoflex-app-membrane": 228,
+    "betocoat-pu": 393,
+    "betocoat-pu2k": 397,
+    "betourea": 438,
+    "betoflex-ac": 443,
+    "betoroof": 453,
+    "betobond": 615,
+    "betocure": 620,
+    "betorelease": 626,
+    "betogrout-ns": 582,
+    "betofloor-fc": 786,
+    "betofloor-sl": 795,
+    "betozinc-primer": 824,
+    "betoepoxy-zp": 832,
+    "betotec-mesh": 935
+  }
+}
